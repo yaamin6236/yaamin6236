@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @yaamin6236
-- 👀 I’m interested in all kinds of artificial intelligence and the theory/math behind them
-- 🌱 I’m currently learning reinforcement learning and fine-tuning large language models
+- 👀 I’m interested in all kinds of artificial intelligence and large language models
+- 🌱 I’m currently learning fine-tuning large language models and working with adapters
 - 💞️ I’m looking to collaborate on machine-learning projects
 - 📫 How to reach me: yaamin6236@gmail.com
 
